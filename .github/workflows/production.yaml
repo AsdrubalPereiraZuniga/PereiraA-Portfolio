@@ -2,7 +2,7 @@ name: PereiraA deploy
 
 on: 
   push:
-  branches: 
+    branches: 
       - main
 
 jobs: 
